@@ -33,8 +33,8 @@
   },
 
    "storage": {
-    "type": "file",
-    "path": "./hastes"
+      "type": "file",
+      "path": "./hastes"
   },
 
   "documents": {
