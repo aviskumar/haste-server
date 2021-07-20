@@ -32,9 +32,10 @@
     }
   },
 
+  
    "storage": {
-      "type": "postgres",
-      "connectionUrl": "postgres://qxxxhnzd:RUZcSzKTFn3g33GXZrMdwul2NSv1ptOk@batyr.db.elephantsql.com/qxxxhnzd"
+    "type": "file",
+    "path": "./hastes"
   },
 
   "documents": {
