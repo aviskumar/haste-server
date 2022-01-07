@@ -34,8 +34,9 @@
 
   
    "storage": {
-    "type": "file",
-    "path": "./hastes"
+  "type": "mongodb",
+  "connectionUrl": "mongodb+srv://avish:avish@cluster0.z0eep.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
   },
 
   "documents": {
